@@ -1,2 +1,2 @@
-# coursea-machine-learning
-Answers for the programming assignments in Coursea Machine Learning courses 
+# coursera-machine-learning
+Answers for the programming assignments in Coursera Machine Learning courses
